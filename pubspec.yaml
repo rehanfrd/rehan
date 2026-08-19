@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  on_audio_query: ^3.1.8  # फोन के गाने ढूँढने के लिए
+  just_audio: ^0.9.36     # गाने प्ले करने के लिए
+  permission_handler: ^11.3.0 # परमिशन मांगने के लिए
